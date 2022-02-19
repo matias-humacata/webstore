@@ -1,0 +1,16 @@
+{
+  "name": "webstore",
+  "version": "1.0.0",
+  "description": "Web store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hhumacata@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "googleapis": "^39.2.0"
+  }
+}
